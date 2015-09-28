@@ -9,7 +9,7 @@ All the source code from the bootstrap & font awesome official website developer
 
 **Notes** : This package is only snippets not contain bootstrap & font awesome CSS original file and font file.
 
-<!-- ==================================================================================== -->
+<!-- =========================================================== -->
 
 **外掛說明** : 內建 bootstrap3 ＆font awesome圖示字的原始碼片段
 所有原始碼取自 bootstrap ＆ font awesome 官方網站，僅提供開發者建立原始碼之便利性。
