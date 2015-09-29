@@ -2,8 +2,8 @@
 
 
 **Plugin introduction** :
-This plugin comes pre-built with snippets from 'Bootstrap 3' & 'Font Awesome' icon fonts.
-All snippets in this plugin were collected from Bootstrap and Font Awesome's official sites. 
+This plugin comes pre-built with snippets from `Bootstrap3` & `Font Awesome` icon fonts.
+All snippets in this plugin were collected from `Bootstrap` and `Font Awesome's` official sites. 
 This plugin was created with the intention only to make developers’ job easier to write code.
 
 
@@ -11,12 +11,12 @@ This plugin was created with the intention only to make developers’ job easier
 SublimeText will display a list of icons that match your keyword. Use the mouse or direction keys to select the one you want.
 
 Different prefix means different icon font.
--bsi stands for 'Bootstrap' Icon Font
--fai stands for Font 'Awesome Icon Font'
+-bsi stands for `Bootstrap(http://tw.yahoo.com)` Icon Font
+-fai stands for `Font Awesome` Icon Font
 
 <!-- =========================================================== -->
 
-**外掛說明** : 內建 bootstrap3 ＆font awesome圖示字的原始碼片段
+**外掛說明** : 內建 bootstrap3 ＆ font awesome 圖示字的原始碼片段，使用時須自行連結CSS檔案及字體檔案
 所有原始碼取自 bootstrap ＆ font awesome 官方網站，僅提供開發者建立原始碼之便利性。
 
 
