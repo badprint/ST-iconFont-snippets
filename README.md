@@ -12,6 +12,7 @@ SublimeText will display a list of icons that match your keyword. Use the mouse 
 
 Different prefix means different icon font.
 -bsi stands for `Bootstrap` Icon Font
+
 -fai stands for `Font Awesome` Icon Font
 
 <!-- =========================================================== -->
