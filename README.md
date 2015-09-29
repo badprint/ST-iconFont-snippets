@@ -21,6 +21,7 @@ Different prefix means different icon font.
 
 
 **使用方式** : 輸入您欲使用的icon類型中文關鍵字後按下Tab鍵（如「垃圾桶」或「箭頭」），Sublime即會顯示符合此關鍵字條件的icon清單，使用滑鼠點選或鍵盤方向鍵選擇欲使用的項目即可。不同的清單字首表示不同的icon font
+
 -bsi  表示 bootstrap icon font
 -fai  表示 font awesome icon font
 
