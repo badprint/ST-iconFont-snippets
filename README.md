@@ -11,9 +11,8 @@ This plugin was created with the intention only to make developers’ job easier
 SublimeText will display a list of icons that match your keyword. Use the mouse or direction keys to select the one you want.
 
 Different prefix means different icon font.
--bsi stands for `Bootstrap` Icon Font
-
--fai stands for `Font Awesome` Icon Font
+- bsi stands for `Bootstrap` Icon Font
+- fai stands for `Font Awesome` Icon Font
 
 <!-- =========================================================== -->
 
@@ -23,8 +22,8 @@ Different prefix means different icon font.
 
 **使用方式** : 輸入您欲使用的icon類型中文關鍵字後按下Tab鍵（如「垃圾桶」或「箭頭」），Sublime即會顯示符合此關鍵字條件的icon清單，使用滑鼠點選或鍵盤方向鍵選擇欲使用的項目即可。不同的清單字首表示不同的icon font
 
--bsi  表示 bootstrap icon font
--fai  表示 font awesome icon font
+- bsi  表示 bootstrap icon font
+- fai  表示 font awesome icon font
 
 
 **注意事項** : 本外掛僅有圖示片段，未包含bootstrap & font awesome CSS原始檔與字體檔案
