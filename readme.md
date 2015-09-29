@@ -1,13 +1,18 @@
 # ST-iconFont-snippets Snippet for Sublime Text 2 & 3
 
-Bootstrap3 icon & font Awesome icon CSS class snippets inside.
-Built bootstrap3 & font awesome source code fragment iconfont
-All the source code from the bootstrap & font awesome official website developers to build only source of convenience.
+
+**Plugin introduction** :
+This plugin comes pre-built with snippets from Bootstrap 3 & Font Awesome icon fonts.
+All snippets in this plugin were collected from Bootstrap and Font Awesome's official sites. 
+This plugin was created with the intention only to make developers’ job easier to write code.
 
 
-**tabTrigger** : Enter the type you wish to use the icon and press the Tab key Chinese keyword (such as "delete"), Sublime is displayed icon list meet the conditions for this keyword, use the mouse click or keyboard arrow keys to select an item I want to use, that is can.
+**tabTrigger** : Type the Traditional Chinese keyword of the icon you want to use and press the Tab key (such as 垃圾桶 or 箭頭). 
+SublimeText will display a list of icons that match your keyword. Use the mouse or direction keys to select the one you want.
 
-**Notes** : This package is only snippets not contain bootstrap & font awesome CSS original file and font file.
+Different prefix means different icon font.
+-bsi stands for Bootstrap Icon Font
+-fai stands for Font Awesome Icon Font
 
 <!-- =========================================================== -->
 
