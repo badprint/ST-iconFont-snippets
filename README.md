@@ -28,4 +28,4 @@ Different prefix means different icon font.
 
 **注意事項** : 本外掛僅有圖示片段，未包含bootstrap & font awesome CSS原始檔與字體檔案
 
-![Screenshot of the default image](http://csscoke.com/ST-iconfont/ST-iconfont.gif)
+![Screenshot of the default image](http://csscoke.com/ST-iconfont/ST-iconfont2.gif)
