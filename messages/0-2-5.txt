@@ -1,0 +1,4 @@
+V0.2.5
+
+- bugfix
+- add new snippet

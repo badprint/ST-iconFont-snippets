@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<i class="fa fa-sitemap"></i>
+<i class="glyphicon glyphicon-glass"></i>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>組織圖</tabTrigger>
+	<tabTrigger>高腳杯</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
