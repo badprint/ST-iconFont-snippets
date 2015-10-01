@@ -1,0 +1,3 @@
+V0.2.2
+
+- class name fix, add new snippet 
