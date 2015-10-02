@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<i class="glyphicon glyphicon-bookmark"></i>
+<i class="glyphicon glyphicon-remove-circle"></i>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>書籤</tabTrigger>
+	<tabTrigger>刪除</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
