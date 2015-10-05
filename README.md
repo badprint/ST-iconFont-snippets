@@ -5,7 +5,8 @@
 This plugin comes pre-built with snippets from `Bootstrap3` & `Font Awesome` icon fonts.
 All snippets in this plugin were collected from `Bootstrap` and `Font Awesome's` official sites. 
 This plugin was created with the intention only to make developers’ job easier to write code.
-support: font-awesome4.4.0  /  bootstrap3.3.5
+
+`support: font-awesome4.4.0  /  bootstrap3.3.5`
 
 
 **tabTrigger** : Type the Traditional Chinese keyword of the icon you want to use and press the Tab key (such as 垃圾桶 or 箭頭). 
