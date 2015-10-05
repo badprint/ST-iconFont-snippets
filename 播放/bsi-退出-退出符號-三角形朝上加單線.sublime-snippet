@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<i class="fa fa-repeat"></i>
+<i class="glyphicon glyphicon-eject"></i>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>播放</tabTrigger>
