@@ -6,6 +6,7 @@ This plugin comes pre-built with snippets from `Bootstrap3` & `Font Awesome` ico
 All snippets in this plugin were collected from `Bootstrap` and `Font Awesome's` official sites. 
 This plugin was created with the intention only to make developers’ job easier to write code.
 
+`support: font-awesome4.4.0 / bootstrap3.3.5`
 
 **tabTrigger** : Type the Traditional Chinese keyword of the icon you want to use and press the Tab key (such as 垃圾桶 or 箭頭). 
 SublimeText will display a list of icons that match your keyword. Use the mouse or direction keys to select the one you want.
