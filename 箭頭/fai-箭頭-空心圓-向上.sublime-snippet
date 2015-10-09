@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<i class="fa fa-arrow-circle-o-top"></i>
+<i class="fa fa-arrow-circle-o-up"></i>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>箭頭</tabTrigger>
