@@ -1,0 +1,7 @@
+V0.3.3
+
+- 添加關鍵字:
+  鳥(twitter)
+  小鳥(twitter)
+  話筒(Skype、whatsApp)
+  電話筒(Skype、whatsApp)
