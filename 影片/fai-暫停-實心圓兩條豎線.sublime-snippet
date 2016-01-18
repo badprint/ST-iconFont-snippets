@@ -1,10 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-	
+<i class="fa fa-pause-circle"></i>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cdn</tabTrigger>
+	<tabTrigger>影片</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
